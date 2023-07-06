@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Whitelisting.iml" filepath="$PROJECT_DIR$/.idea/modules/Whitelisting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/Whitelisting.demo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Whitelisting.library.unitTest.iml" />
+    </modules>
+  </component>
+</project>
